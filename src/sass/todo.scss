@@ -1,0 +1,23 @@
+#report-delete-none {
+   background: rgba(0, 0, 0, 0.626);
+   border-radius: 10px;
+   bottom: -20%;
+   right: 0%;
+   position: fixed;
+   transition: .3s;
+   p {
+    color: #fff;
+   }
+}
+
+#report-delete-display {
+    bottom: 0%;
+    background: rgba(0, 0, 0, 0.626);
+    position: fixed;
+    border-radius: 10px;
+    right: 0%;
+    transition: .3s;
+    p {
+        color: #fff;
+       }
+}
